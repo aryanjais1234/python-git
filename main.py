@@ -1,6 +1,3 @@
-import calculator
+from math import simple
 
-print(calculator.add(1,2))
-print(calculator.sub(1,2))
-print(calculator.mul(1,2))
-print(calculator.div(1,2))
+print(add(1,2))
