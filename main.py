@@ -1,3 +1,3 @@
-from math import simple
+from math_pack import simple
 
-print(add(1,2))
+print(simple.add(2, 4))
